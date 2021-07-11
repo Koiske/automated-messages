@@ -1,0 +1,7 @@
+plugins:
+
+  dev_rel_automated_messages:
+    default: true
+
+  dev_rel_automated_messages_group:
+    default: "DevEngagementTeam"

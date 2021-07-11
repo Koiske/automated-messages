@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    dev_rel_automated_messages: "Promotion messages originate from admin group rather than system?"
+    dev_rel_automated_messages_group: "Random pick from this group"
